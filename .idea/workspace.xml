@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d75a5ee-786f-4064-89cd-ad976ff99cc4" name="Changes" comment="feat: AddBlogArticle controller">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jin/springboot/blog/springbootblog/dto/ArticleResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+    <list default="true" id="5d75a5ee-786f-4064-89cd-ad976ff99cc4" name="Changes" comment="feat: findAllArticles controller">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jin/springboot/blog/springbootblog/controller/BlogApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jin/springboot/blog/springbootblog/controller/BlogApiController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jin/springboot/blog/springbootblog/service/BlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jin/springboot/blog/springbootblog/service/BlogService.java" afterDir="false" />
@@ -214,7 +212,7 @@
       <workItem from="1711608885110" duration="4329000" />
       <workItem from="1711693292648" duration="1971000" />
       <workItem from="1712232065074" duration="2065000" />
-      <workItem from="1712317804318" duration="2087000" />
+      <workItem from="1712317804318" duration="3011000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -256,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712234116952</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: findAllArticles controller">
+      <option name="closed" value="true" />
+      <created>1712320410238</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712320410238</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +274,7 @@
     <MESSAGE value="feat: Study Entity" />
     <MESSAGE value="delete files" />
     <MESSAGE value="feat: AddBlogArticle controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: AddBlogArticle controller" />
+    <MESSAGE value="feat: findAllArticles controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: findAllArticles controller" />
   </component>
 </project>
